@@ -1,4 +1,4 @@
-import React from 'react' 
+import React from 'react'
 import Loader from 'react-loader-spinner'
 
 import MovieCard from '../MovieCard'

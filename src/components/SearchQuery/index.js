@@ -72,4 +72,4 @@ const SearchQuery = () => {
   )
 }
 
-export default SearchQuery 
+export default SearchQuery
